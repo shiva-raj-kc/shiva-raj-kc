@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @shiva-raj-kc
-- 👀 I’m interested in ... cooking 
+- 👋 Hi, I’m Shivaraj 
+- 👀 I’m interested in ..... react js
 - 🌱 I’m currently learning ...frontend
 - 💞️ I’m looking to collaborate on ...database
 - 📫 How to reach me ... realenzimo@gmail.com
